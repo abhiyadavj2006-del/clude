@@ -67,7 +67,7 @@ If uv is already installed, run uv self update to get the latest version.
 
 ```bash
 git clone https://github.com/abhiyadavj2006-del/clude.git
-cd free-claude-code
+cd clude
 cp .env.example .env
 ```
 
